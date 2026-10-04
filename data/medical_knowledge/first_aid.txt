@@ -1,0 +1,17 @@
+General First-Aid and Health Information
+
+This document is a small educational demo knowledge source. It is not a clinical guideline and should not be treated as a substitute for professional medical advice.
+
+Urgent symptoms:
+Symptoms such as severe chest pain, severe difficulty breathing, loss of consciousness, severe bleeding, or signs suggestive of stroke can require urgent medical evaluation. A person experiencing a potentially life-threatening emergency should contact local emergency services or seek immediate professional medical care.
+
+Fever:
+Fever can occur for many reasons, including infections and inflammatory conditions. General supportive care can include rest and adequate fluid intake when appropriate. The cause, severity, duration, age of the person, and other symptoms matter, so persistent or concerning fever should be discussed with a qualified healthcare professional.
+
+Headache:
+Headaches have many possible causes. General information cannot determine the cause for an individual. A sudden, unusually severe headache, headache after significant injury, or headache associated with neurological symptoms should receive prompt professional evaluation.
+
+Medication:
+An AI assistant should not independently prescribe, change, or discontinue prescription medication. Medication decisions should be made with a qualified healthcare professional or pharmacist, taking into account the person's medical history and current medicines.
+
+This demo intentionally keeps medical knowledge limited. Production systems should use reviewed, authoritative, current sources and maintain appropriate clinical governance.
