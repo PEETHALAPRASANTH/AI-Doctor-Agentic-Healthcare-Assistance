@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     openai_api_key: str = os.getenv("OPENAI_API_KEY")
     openai_model: str = "gpt-4o-mini"
     database_url: str = "sqlite:///./doctor.db"
-    cors_origins: str = "https://ai-doctor-agentic-healthcare-assistance.onrender.com/chat"
+    cors_origins: str = "http://localhost:5173,http://127.0.0.1:5173"
     max_agent_steps: int = 5
 
     model_config = SettingsConfigDict(
